@@ -1,0 +1,4 @@
+export const SignUpActionTypes = {
+  USER_REGISTRATION: 'USER_REGISTRATION',
+  SHOW_LOADER: 'SHOW_LOADER',
+};
