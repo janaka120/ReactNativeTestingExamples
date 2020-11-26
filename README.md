@@ -24,4 +24,4 @@ Application tested only on Android but should run on IOS platform also. Mainly c
 
 ## App UIs
 
-[Image of Yaktocat](/src/assets/images/login-img.png) [Image of Yaktocat](/src/assets/images/home-img.png) [Image of Yaktocat](/src/assets/images/register-img.png)
+![Image of Yaktocat](/src/assets/images/login-img.png) ![Image of Yaktocat](/src/assets/images/home-img.png) ![Image of Yaktocat](/src/assets/images/register-img.png)
