@@ -6,7 +6,8 @@ Application tested only on Android but should run on IOS platform also. Mainly c
 
 
 ## Installation and usage
-
+    $ git clone https://github.com/janaka120/ReactNativeTestingExamples.git
+    $ cd ReactNativeTestingExamples
     $ npm install
 
     All jest tests:
@@ -22,6 +23,13 @@ Application tested only on Android but should run on IOS platform also. Mainly c
 - [react-test-renderer](https://reactjs.org/docs/test-renderer.html)
 - [fetch-mock](https://www.npmjs.com/package/fetch-mock)
 
+
 ## App UIs
 
-![Image of Yaktocat](/src/assets/images/login-img.png) ![Image of Yaktocat](/src/assets/images/home-img.png) ![Image of Yaktocat](/src/assets/images/register-img.png)
+![Image of Yaktocat](/src/assets/images/main-img.png)
+
+## Features
+
+- Login
+- Add Item list screen
+- Register
