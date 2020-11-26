@@ -21,3 +21,7 @@ Application tested only on Android but should run on IOS platform also. Mainly c
 - [@testing-library/react-native](https://github.com/callstack/react-native-testing-library)
 - [react-test-renderer](https://reactjs.org/docs/test-renderer.html)
 - [fetch-mock](https://www.npmjs.com/package/fetch-mock)
+
+## App UIs
+
+[Image of Yaktocat](/src/assets/images/login-img.png) [Image of Yaktocat](/src/assets/images/home-img.png) [Image of Yaktocat](/src/assets/images/register-img.png)
