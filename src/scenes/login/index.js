@@ -29,7 +29,7 @@ const LoginScreen = ({navigation}) => {
   return (
     <>
       <SafeAreaView style={styles.con}>
-        <DefaultText text="Sample Testing App" customStyle={styles.title} />
+        <DefaultText text="React Native Testing Examples" customStyle={styles.title} />
         <DefaultText
           customStyle={styles.infoText}
           text="This sample application helps to get some idea about React Native testing."
